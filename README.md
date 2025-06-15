@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aiman898
 - 👀 I’m interested in making projeccts.
-- 🌱 I’m currently learning prolog programming
+- 🌱 I’m currently learning differenet programming languages
 - 💞️ I’m looking to collaborate on different programmers
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
